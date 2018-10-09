@@ -24,3 +24,6 @@ go run main.go https://getstream.io
 - Display the graph in a nice way
 - Do it fast
 - Exit the program cleanly on Ctrl+C
+
+## Final notes
+- If something about these requirements is not clear feel free to ask
